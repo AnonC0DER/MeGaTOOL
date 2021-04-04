@@ -7,6 +7,7 @@ And don't forget to let me know if there are any bugs.**
 
 - python v3
 - pip install colorama
+- https://git-scm.com/download/win (in windows, for script updates)
 
 ### Menu :
 

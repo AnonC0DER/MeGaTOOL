@@ -31,8 +31,3 @@ And don't forget to let me know if there are any bugs.**
 
 ### Screenshot : 
 ![ScreenShot](MeGaTOOL.png)
-
-Contact me : 
-AnonCODER@tutanota.com
-telegram : @NoobsFather
-My Website : Magna-Game.site
